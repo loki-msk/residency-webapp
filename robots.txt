@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://loki-msk.github.io/residency-webapp/sitemap.xml
+Host: https://loki-msk.github.io
